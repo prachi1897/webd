@@ -1,0 +1,102 @@
+body{
+	background-color:#FAF3D1;
+	font-family:serif;
+	padding:0px;
+
+	margin:0px;
+}
+.nav{
+
+	width:100%;
+	padding:.1%;
+	background-color:#F0DB75;
+	position:relative;
+	
+	
+}
+.nav li{
+	list-style-type:none;
+	display:inline;
+    padding:3px;
+margin:20px;	
+}
+.nav li a{
+	text-decoration:none;
+	padding:2px;
+	width:100px;	
+	color:#fffff;
+}
+.nav h2{
+	float:left;
+	margin:2px;
+	padding:2px;
+}
+.intro h2{
+text-align:center;
+}
+.intro img{
+	border-radius:25%;
+	width:15%;
+	opacity:0.8;
+	border:2px solid black;
+margin:1%;
+	
+}
+.about{
+	margin:5%;
+}	
+.skills{
+	background-color:#F0DB75;
+	
+}
+.skills h2{
+	margin:20px;
+	font-size:20px;
+	text-align:center;
+}
+.skills ol{
+	list-style-type:none;
+	padding:0px;
+	overflow:hidden;
+	margin:2% 30px;
+}
+.skills ul{
+	list-style-type:square;
+}
+.social{
+	background-color:#FAEB9E;
+text-align:center;
+}
+.social a:hover{
+background-color:#f1c2c2;
+}
+
+.qualify {
+	background-color:#FAEB9E;
+
+
+}
+
+.qualify h2{
+text-align:center;
+}
+
+table,th,td{
+	border-collapse:collapse;
+		   border-radius:10%;
+		   text-align:center;
+		   
+}
+		   tr:nth-child(odd) {
+    background-color: #FAEB9E;
+}
+           
+.mail{
+	text-align:center;
+	background-color:#FAEB9E;
+}
+
+
+
+
+	
